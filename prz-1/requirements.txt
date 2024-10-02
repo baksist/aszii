@@ -1,0 +1,6 @@
+notebook
+tensorflow
+torch
+torchvision
+foolbox
+cleverhans
