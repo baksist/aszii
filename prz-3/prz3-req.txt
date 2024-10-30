@@ -1,6 +1,4 @@
 notebook
 tensorflow[and-cuda]
-torch
-torchvision
 foolbox
-cleverhans
+matplotlib
