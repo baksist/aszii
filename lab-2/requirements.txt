@@ -1,0 +1,6 @@
+adversarial-robustness-toolbox
+kagglehub
+tensorflow[and-cuda]
+matplotlib
+pandas
+notebook
