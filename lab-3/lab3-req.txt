@@ -1,0 +1,6 @@
+keras
+keras-vis
+notebook
+matplotlib
+numpy
+tensorflow[and-cuda]
