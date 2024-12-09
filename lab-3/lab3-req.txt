@@ -1,6 +1,8 @@
-keras
+keras==2.1.6
 keras-vis
+scipy==1.2.*
 notebook
 matplotlib
-numpy
-tensorflow[and-cuda]
+tensorflow==1.15.0
+numpy<2
+h5py==2.10.0
