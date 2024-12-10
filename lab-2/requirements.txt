@@ -1,6 +1,7 @@
 adversarial-robustness-toolbox
 kagglehub
-tensorflow[and-cuda]
+tensorflow[and-cuda]==2.15.0
+keras==2.15.0
 matplotlib
 pandas
 notebook
